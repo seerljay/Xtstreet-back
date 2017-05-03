@@ -12,4 +12,5 @@ export default {
 
 <style>
 	 @import "../static/css/main.css";
+	 @import "../static/fontawesome/css/font-awesome.css"
 </style>
